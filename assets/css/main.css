@@ -1877,7 +1877,7 @@ input, select, textarea {
         }
 
             .icon.platform.unsupported {
-                color: rgba(0, 0, 0, 0.2)
+                color: rgba(0, 0, 0, 0.15)
             }
 
 /* List */
@@ -2338,17 +2338,25 @@ input, select, textarea {
 			display: block;
 		}
 
+        .image img icon {
+            border-radius: 3em;
+        }
+
 		.image.left, .image.right {
-			max-width: 20%;
+			max-width: 18%;
 		}
 
 			.image.left img, .image.right img {
 				width: 100%;
 			}
 
+                .image.left.appicon img, .image.right.appicon {
+                    border-radius: 1em;
+                }
+
 		.image.left {
 			float: left;
-			padding: 0 2em 2em 0;
+			padding: 0 1em 1em 0;
 			top: 0.25em;
 		}
 

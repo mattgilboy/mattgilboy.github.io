@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 150 173" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <path d="M149.167,129.183L74.583,172.243L0,129.183L0,43.061L74.583,0L149.167,43.061L149.167,129.183Z" style="fill:rgb(88,88,88);fill-rule:nonzero;"/>
-    <g transform="matrix(1,0,0,1,-64.7262,37.0565)">
-        <text x="73.972px" y="76.875px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:72px;fill:white;">MG</text>
+    <g transform="matrix(1.16279,0,0,0.923077,-24.8351,-1.57081)">
+        <path d="M150,56C150,34.475 136.127,17 119.04,17L51.96,17C34.873,17 21,34.475 21,56L21,134C21,155.525 34.873,173 51.96,173L119.04,173C136.127,173 150,155.525 150,134L150,56Z" style="fill:rgb(88,88,88);"/>
+    </g>
+    <g transform="matrix(1,0,0,1,9.2458,113.931)">
+        <text x="0px" y="0px" style="font-family:'Futura-Medium', 'Futura', sans-serif;font-weight:500;font-size:72px;fill:white;">MG</text>
     </g>
 </svg>

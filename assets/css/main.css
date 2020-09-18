@@ -2343,7 +2343,7 @@ input, select, textarea {
         }
 
 		.image.left, .image.right {
-			max-width: 18%;
+			max-width: 15%;
 		}
 
 			.image.left img, .image.right img {
@@ -2351,7 +2351,7 @@ input, select, textarea {
 			}
 
                 .image.left.appicon img, .image.right.appicon {
-                    border-radius: 1em;
+                    border-radius: 0.7em;
                 }
 
 		.image.left {

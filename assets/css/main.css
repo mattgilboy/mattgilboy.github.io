@@ -2351,7 +2351,8 @@ input, select, textarea {
 			}
 
                 .image.left.appicon img, .image.right.appicon {
-                    border-radius: 0.7em;
+/*                    border-radius: 0.7em;*/
+                      border-radius: 10px;
                 }
 
 		.image.left {
